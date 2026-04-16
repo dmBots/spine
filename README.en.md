@@ -1,36 +1,18 @@
 # SPINE
 
-#### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+## Overview
+- This folder is the entry point for SPINE board materials.
+- Board files, mechanical assets, and related docs are grouped here.
 
-#### Software Architecture
-Software architecture description
+## Documentation / Resources
+- [SPIne-8M-2023.11.21修改.7z](SPIne-8M-2023.11.21修改.7z)
+- [SPINE--SPI-CAN_V1.4.pdf](SPINE--SPI-CAN_V1.4.pdf)
+- [SPI-CAN_V1.3STEP.zip](SPI-CAN_V1.3STEP.zip)
 
-#### Installation
+## Quick Start
+- Open the matching PDF or archive first, then choose the board material that matches the version you need.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## Status
+- EN: translation pending
+- ZH: source material exists in this subtree
+- TBD: details are maintained in the current folder
