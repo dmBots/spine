@@ -1,18 +1,18 @@
 # SPINE
 
-## 概述
-- 这里是 SPINE 载板资料入口。
-- 板卡文件、结构件和相关文档按当前目录分组维护。
+## Overview
+- This folder is the entry point for SPINE board materials.
+- Board files, mechanical assets, and related docs are grouped here.
 
-## 文档 / 资源
+## Documentation / Resources
 - [SPIne-8M-2023.11.21修改.7z](SPIne-8M-2023.11.21修改.7z)
 - [SPINE--SPI-CAN_V1.4.pdf](SPINE--SPI-CAN_V1.4.pdf)
 - [SPI-CAN_V1.3STEP.zip](SPI-CAN_V1.3STEP.zip)
 
-## 快速开始
-- 先打开对应 PDF 或压缩包，再按版本选择需要的板卡资料。
+## Quick Start
+- Open the matching PDF or archive first, then choose the board material that matches the version you need.
 
-## 状态
-- ZH: 主版
-- EN: Translation pending
-- TBD: 具体用途以当前目录资料为准
+## Status
+- EN: main entry
+- ZH: Translation pending
+- TBD: details are maintained in the current folder

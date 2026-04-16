@@ -1,7 +1,7 @@
 # SPINE
 
 ## Overview
-- This folder is the entry point for SPINE board materials.
+- Supplemental entry note for SPINE board materials.
 - Board files, mechanical assets, and related docs are grouped here.
 
 ## Documentation / Resources
