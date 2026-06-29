@@ -1,18 +1,21 @@
-# SPINE
+# spine
+
+[中文](./README.zh.md) | EN
 
 ## Overview
-- This folder is the entry point for SPINE board materials.
-- Board files, mechanical assets, and related docs are grouped here.
 
-## Documentation / Resources
-- [SPIne-8M-2023.11.21修改.7z](SPIne-8M-2023.11.21修改.7z)
-- [SPINE--SPI-CAN_V1.4.pdf](SPINE--SPI-CAN_V1.4.pdf)
-- [SPI-CAN_V1.3STEP.zip](SPI-CAN_V1.3STEP.zip)
+This repository is the material entry point for $name. The material folders are normalized so Gitee and GitHub can share the same internal structure.
 
-## Quick Start
-- Open the matching PDF or archive first, then choose the board material that matches the version you need.
+## Resources
 
-## Status
-- EN: translation pending
-- ZH: source material exists in this subtree
-- TBD: details are maintained in the current folder
+- [manual/](manual/) - manuals, datasheets, and usage notes
+- [drawings/2d/](drawings/2d/) - 2D drawings, dimensions, and schematic materials
+- [models/3d/](models/3d/) - 3D models and mechanical files
+- [test-data/](test-data/) - test data, performance curves, and validation materials
+- [release-notes/](release-notes/) - release notes and change records
+
+## Structure Policy
+
+- Gitee uses Chinese as the default README.md.
+- GitHub uses English as the default README.md.
+- Subrepository links use only normalized local folders and do not depend on parent repository paths.
