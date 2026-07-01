@@ -1,19 +1,19 @@
 # Spine
 
-中文 | [EN](./README.en.md)
+[中文](./README.zh.md) | EN
 
-## 概述
+## Overview
 
-本仓库收录 Spine 控制板对外资料。目录按客户查阅顺序保留真实资料，空占位目录不再保留。
+This repository contains public materials for the Spine control board. Only directories with real content are kept, and empty placeholder directories are removed.
 
-## 资料目录
+## Contents
 
-- [2D图纸/](2D图纸/) - 2D 图纸、管脚图、原理图或封装参考资料
-- [3D模型/](3D模型/) - STEP、STP、SolidWorks 或结构压缩包等 3D 模型资料
-- [SPIne-8M-2023.11.21修改.7z](SPIne-8M-2023.11.21修改.7z) - 原始资料包或历史交付压缩包
+- [2D图纸/](2D图纸/) - 2D drawings, pinout diagrams, schematics, and footprint references
+- [3D模型/](3D模型/) - STEP, STP, SolidWorks, and packaged 3D model files
+- [SPIne-8M-2023.11.21修改.7z](SPIne-8M-2023.11.21修改.7z) - Original package or historical delivery archive
 
-## 维护规则
+## Maintenance Rules
 
-- 新增资料必须放入对应中文目录，不新增空目录。
-- 2D 图纸和 3D 模型直接放在根目录下的 2D图纸/、3D模型/。
-- 代码工程、第三方工程和已有压缩包保持原文件名，避免破坏客户使用路径。
+- Add new materials to the matching Chinese directory and do not add empty placeholder folders.
+- Keep 2D drawings and 3D models directly under 2D图纸/ and 3D模型/.
+- Keep code projects, third-party projects, and existing archives under their original file names to avoid breaking customer paths.
